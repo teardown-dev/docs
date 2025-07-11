@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "API Reference",
+        "tab": "API Reference +",
         "openapi": "https://relay.teardown.dev/swagger/json"
       },
       {
